@@ -29,7 +29,7 @@ const schemeFromBundleId = `manus${timestamp}`;
 const env = {
   // App branding - update these values directly (do not use env vars)
   appName: "SleepTracker",
-  appSlug: "{{project_name}}",
+  appSlug: "SleepTracker",
   // S3 URL of the app logo - set this to the URL returned by generate_image when creating custom logo
   // Leave empty to use the default icon from assets/images/icon.png
   logoUrl: "https://private-us-east-1.manuscdn.com/sessionFile/5MwYBRQWqGfKjG4FSIk0bV/sandbox/AJzBMZM5UCG9mF31ZWxhT1-img-1_1770909070000_na1fn_c2xlZXB0cmFja2VyLWxvZ28.png?x-oss-process=image/resize,w_1920,h_1920/format,webp/quality,q_80&Expires=1798761600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNU13WUJSUVdxR2ZLakc0RlNJazBiVi9zYW5kYm94L0FKekJNWk01VUNHOW1GMzFaV3hoVDEtaW1nLTFfMTc3MDkwOTA3MDAwMF9uYTFmbl9jMnhsWlhCMGNtRmphMlZ5TFd4dloyOC5wbmc~eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsd18xOTIwLGhfMTkyMC9mb3JtYXQsd2VicC9xdWFsaXR5LHFfODAiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=RLmo6SZgsKvc17SRBdYDhKW9G1hTxdkYM1L-oJPNpZKOa0TZbLBwSwxw8UX7y-oeNSVcjCWMkKfPcijv0BUw0At5qCMJ1zjhcL7NXvDdORdaiZMe2s78dsXF~aTxb4~3OSdkb9C6lnvib--xvY4TaFLlVqPpsMqh1~I8u5OdP7teDXntM5IcIc5XUErMZ4B4C4NHQvz6eXn5BP9-WMBjXqq76GGV7Vi2mlArzIbZAjV6vFDNm55QUV5SFFw46ghMwkthVKQjxzbp7TZb77Grc-nt1Xreq2CmqDey0BmGE8It5lp7pTV2PyWP0w5qAHTf-xk13IkBgk~4Sv22IpwRZQ__",
