@@ -127,13 +127,12 @@ const config: ExpoConfig = {
   },
 };
 
-export default {
-  expo: {
-    extra: {
-      eas: {
-        projectId: "cc6a2c5f-4ec5-4a47-97f8-962fb3e82b79"
-      }
-    }
+config.extra = {
+  eas: {
+    projectId: "cc6a2c5f-4ec5-4a47-97f8-962fb3e82b79"
   }
-}
+};
+
+export default config;
+
 
