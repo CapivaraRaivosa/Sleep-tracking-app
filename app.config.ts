@@ -131,7 +131,7 @@ export default {
   expo: {
     extra: {
       eas: {
-        projectId: "65ab3809-0e67-44b1-9e8b-b885d5c2cacf"
+        projectId: "cc6a2c5f-4ec5-4a47-97f8-962fb3e82b79"
       }
     }
   }
